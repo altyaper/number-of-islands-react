@@ -1,0 +1,16 @@
+.d-grid {
+  display: inline-grid;
+}
+
+.square {
+  border: 1px solid $color-water-border;
+  transition: all 0.5s cubic-bezier(.26,.52,.12,.88);
+}
+
+.bg-land {
+  background-color: $color-land;
+}
+
+.bg-water {
+  background-color: $color-water;
+}
