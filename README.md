@@ -10,7 +10,7 @@
 `npm install` or `yarn add`
 
 ## Start the application
-* `npm run start`
+* `NODE_OPTIONS=--openssl-legacy-provider npm start`
 
 ## Run tests
 * `npm run test:unit` for unit tests
